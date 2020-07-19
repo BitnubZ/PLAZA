@@ -1,0 +1,16 @@
+.idea
+__pycache__
+.DS_Store
+
+# dist and build are created by pyinstaller as part of generating an executable
+dist
+build
+
+# This file is created when profiling the game
+.profile_stats
+
+# This directory contains savefiles
+saved_characters
+
+# This directory can be used for storing resources that aren't used yet
+playground
